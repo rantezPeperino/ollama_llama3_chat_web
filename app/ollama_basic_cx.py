@@ -5,7 +5,7 @@ response = ollama.chat(
     messages=[
         {
             "role": "user",
-            "content": "me gustaria hacer embedding? que base de datos vectorial podria usar algo con poco requisitos de hardware?",
+            "content": "me gustaria hacer una torta de chocolate, la receta por favor",
         },
     ],
 )
